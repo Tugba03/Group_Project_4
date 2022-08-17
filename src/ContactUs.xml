@@ -1,0 +1,14 @@
+<suite name="Contact us Test suite ">
+
+    <test name="Contact us function test1">
+        <parameter name="browser" value="chrome"></parameter>
+        <parameter name="Contact us" value="Please send my order"></parameter>
+        <classes>
+            <class name="Test._02_ContactUsFunction"></class>
+            <class name="Test._03_PlaceOrderFunction"></class>
+        </classes>
+
+    </test>
+
+</suite>
+
